@@ -2458,6 +2458,41 @@ __metadata:
   languageName: node
   linkType: hard
 
+"Aitoku@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "Aitoku@workspace:."
+  dependencies:
+    "@babel/core": "npm:^7.25.2"
+    "@babel/preset-env": "npm:^7.25.4"
+    "@babel/preset-react": "npm:^7.24.7"
+    "@emotion/react": "npm:^11.13.3"
+    "@emotion/styled": "npm:^11.13.0"
+    "@mui/icons-material": "npm:^6.0.2"
+    "@mui/material": "npm:^6.0.2"
+    autoprefixer: "npm:^10.4.20"
+    babel-loader: "npm:^9.1.3"
+    browserslist: "npm:^4.23.3"
+    core-js: "npm:3.38.1"
+    css-loader: "npm:^7.1.2"
+    html-loader: "npm:^5.1.0"
+    html-webpack-plugin: "npm:^5.6.0"
+    jsdom: "npm:^25.0.0"
+    mini-css-extract-plugin: "npm:^2.9.1"
+    node-fetch: "npm:^3.3.2"
+    postcss: "npm:^8.4.45"
+    postcss-loader: "npm:^8.1.1"
+    react: "npm:^18.3.1"
+    react-dom: "npm:^18.3.1"
+    sass: "npm:^1.78.0"
+    sass-loader: "npm:^16.0.1"
+    style-loader: "npm:^4.0.0"
+    webpack: "npm:^5.94.0"
+    webpack-cli: "npm:^5.1.4"
+    webpack-dev-server: "npm:^5.1.0"
+    webpack-merge: "npm:^6.0.1"
+  languageName: unknown
+  linkType: soft
+
 "abbrev@npm:^1.0.0":
   version: 1.1.1
   resolution: "abbrev@npm:1.1.1"
@@ -4807,41 +4842,6 @@ __metadata:
   checksum: 10/1db67b853ff0de3534085d630691d3247de53a2ed1390ba0ddff681ea43e9b3e30ecbdb65c5e9aab49435e44059c23dbd6fee8ee619419ba37465bb0dd7135da
   languageName: node
   linkType: hard
-
-"kawaii-qr-generator@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "kawaii-qr-generator@workspace:."
-  dependencies:
-    "@babel/core": "npm:^7.25.2"
-    "@babel/preset-env": "npm:^7.25.4"
-    "@babel/preset-react": "npm:^7.24.7"
-    "@emotion/react": "npm:^11.13.3"
-    "@emotion/styled": "npm:^11.13.0"
-    "@mui/icons-material": "npm:^6.0.2"
-    "@mui/material": "npm:^6.0.2"
-    autoprefixer: "npm:^10.4.20"
-    babel-loader: "npm:^9.1.3"
-    browserslist: "npm:^4.23.3"
-    core-js: "npm:3.38.1"
-    css-loader: "npm:^7.1.2"
-    html-loader: "npm:^5.1.0"
-    html-webpack-plugin: "npm:^5.6.0"
-    jsdom: "npm:^25.0.0"
-    mini-css-extract-plugin: "npm:^2.9.1"
-    node-fetch: "npm:^3.3.2"
-    postcss: "npm:^8.4.45"
-    postcss-loader: "npm:^8.1.1"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
-    sass: "npm:^1.78.0"
-    sass-loader: "npm:^16.0.1"
-    style-loader: "npm:^4.0.0"
-    webpack: "npm:^5.94.0"
-    webpack-cli: "npm:^5.1.4"
-    webpack-dev-server: "npm:^5.1.0"
-    webpack-merge: "npm:^6.0.1"
-  languageName: unknown
-  linkType: soft
 
 "kind-of@npm:^6.0.2":
   version: 6.0.3
